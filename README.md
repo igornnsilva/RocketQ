@@ -5,7 +5,7 @@
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Projeto desenvolvido na semana NLW da RocketSeat, utilizando as seguintes tecnologias:
 
 - HTML
 - CSS
